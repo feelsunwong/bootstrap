@@ -208,7 +208,7 @@ module.exports = function (grunt) {
         options: {
           map: true
         },
-        src: 'docs/assets/css/src/docs.css'
+        src: 'docs/assets/css/docs.css'
       },
       examples: {
         expand: true,
